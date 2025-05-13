@@ -1,4 +1,4 @@
-![Brave Browser](./docs/source/_static/Brave.svg)
+git![Brave Browser](./docs/source/_static/Brave.svg)
 
 ## Overview
 
